@@ -1,0 +1,7 @@
+minApiVersion=101
+targetApiVersion=101
+staticScope=false
+exceptionMode=protective
+author=Kevin233
+version=2.2.0
+versionCode=220

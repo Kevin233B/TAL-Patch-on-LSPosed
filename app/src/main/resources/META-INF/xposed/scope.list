@@ -1,0 +1,14 @@
+system
+android
+com.android.systemui
+moe.shizuku.privileged.api
+com.android.shell
+com.android.packageinstaller
+com.tal.pad.studyservice
+com.tal.dataupload
+com.tal.pad.backdoor
+com.tal.backdoor
+com.tal.pad.onlineclass
+com.tal.pad.usercenter
+com.tal.pad.minor_protect
+com.tal.pad.znxxservice
